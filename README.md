@@ -1,65 +1,48 @@
-# Film-Finder
 
-Film-Finder is a web application designed to help users discover and explore a wide range of films based on their interests. Whether you're looking for a specific genre, browsing for new releases, or seeking personalized recommendations, Film-Finder has you covered.
+```markdown
+## Film Finder Web App!
+[apple-touch-icon](https://github.com/olarich11/film-finder/assets/125461275/16d4b2ed-d500-4163-a84a-a46aea7ef9fa)
+
+Film Finder Web App is a web application that allows users to search for movies by title, view movie details, and discover popular movies.
 
 ## Features
 
-- **Search Functionality:** Easily search for films by title, genre, or release year.
-- **Film Details:** View detailed information about each film, including plot summaries, cast, and reviews.
-- **Responsive Design:** Enjoy a seamless browsing experience across devices, including desktops, tablets, and mobile phones.
+- Search for movies by title.
+- View movie details including title, rating, and overview.
+- Discover popular movies.
+
+## Getting Started
+
+To run the Film Finder Web App locally, follow these steps:
+
+1. Clone this repository to your local machine:
+
+   ```bash
+   git clone https://github.com/olarich11/film-finder
+   ```
+
+2. Open the `index.html` file in your preferred web browser.
+3. Start searching for movies by title!
+
+## Dependencies
+
+- This web app uses [The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api) to fetch movie data.
 
 ## Technologies Used
 
-- **Frontend:** HTML, CSS and Javascript
-- **API Integration:** Fetch
-- **Deployment:** Netlify
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/film-finder.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd film-finder
-   ```
-
-3. Install dependencies:
-
-   ```bash
-   npm install
-   ```
-
-4. Start the development server:
-
-   ```bash
-   npm start
-   ```
-
-5. Access the application in your web browser at `http://localhost:3000`.
+- HTML
+- CSS
+- JavaScript
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to Film-Finder, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them to your branch.
-4. Push to your fork and submit a pull request.
+Contributions are welcome! If you have any suggestions, feature requests, or find any issues, please [open an issue](https://github.com/olarich11/film-finder/issues) or [create a pull request](https://github.com/olarich11/film-finder/pulls).
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Authors
-Michael Ozioma
-Onalo Charles
+## Author
 
-## Acknowledgements
-
-- This project was inspired by the love of cinema and the desire to create a user-friendly platform for film enthusiasts.
-- Special thanks to Charles Onalo for their valuable insights and contributions.
+- Olakunle Oluwaseun Awoyemi
+```
